@@ -183,3 +183,7 @@
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+## Projects
+
+- [Dataset-Generator-Build](https://github.com/mybelovedstar123/Dataset-Generator-Build) - synthetic time-series dataset generator (Python, NumPy, Numba)
