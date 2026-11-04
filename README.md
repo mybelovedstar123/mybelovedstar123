@@ -52,7 +52,7 @@
       <br>Svelte
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="WordPress" />
       <br>WordPress
     </td>
     <td align="center" width="90">
@@ -183,4 +183,3 @@
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
