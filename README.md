@@ -176,7 +176,6 @@
 </p>
 <hr>
 <br>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
